@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+torch
+numpy
+opencv-python
+insightface
+onnxruntime-gpu
+tifffile
